@@ -24,6 +24,13 @@
   *  My personal favorite resources out of all the others here.  
   *  Knowing a little bit aobut [Rspec](http://rspec.codeschool.com/levels/1) is necessary to use this. 
 
+###Boot Camps
+######Want to actually move into the industry?  Once you've completed the intermediate resources section, you're probably ready to try applying to boot camps.  
+*  [App Academy](http://www.appacademy.io/)
+  *  The boot camp that I went through.  Heavily recommended.  
+  *  SF / NY based
+  *  Well designed incentive structure: Their funding model relies on you being able to get a job based on the skills acquired at the boot camp.  
+
 ###Project Ideas
 ###### Solve your own problems!  Make coding useful for your own life!
 *  Do you have some sort of repittious task with excel that you do at work? Does a friend? Automate it!  
@@ -55,6 +62,7 @@
   * What exactly can you do with a String, again?  Go here to remind yourself.  
 * [Stack Overfloew](www.stackoverflow.com)
   * You're stuck?  Everyone on the internet is stuck.  This is where they go to solve their problems.  
+* [Naming Convetions](https://www.thc.org/root/phun/unmaintain.html)  
 
 ###Other Skills
 * [Git](http://gitimmersion.com/)
