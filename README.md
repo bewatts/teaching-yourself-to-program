@@ -23,6 +23,7 @@
 * [Test First Teaching](http://testfirst.org/learn_ruby)
   *  My personal favorite resources out of all the others here.  
   *  Knowing a little bit aobut [Rspec](http://rspec.codeschool.com/levels/1) is necessary to use this. 
+* [A great big list of coding challenges](http://www.spoj.com/BSCPROG/)  
 
 ###Boot Camps
 ######Want to actually move into the industry?  Once you've completed the intermediate resources section, you're probably ready to try applying to boot camps.  
@@ -56,6 +57,7 @@
   * Scripting is the process of making ruby code that does things for you - you can automate parts of your computing life.    
 * [Intro](http://pragprog.com/book/ltp2/learn-to-program)
   * If you prefer a book as a way to learn, this one is very beginner friendly.  If you use this, make sure to do all the exercises contained within.  
+* [List of Free Ruby Books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby)
   
 ###Ruby Resources  
 * [Ruby Source Documents](http://www.ruby-doc.org/core-2.1.0/String.html)
